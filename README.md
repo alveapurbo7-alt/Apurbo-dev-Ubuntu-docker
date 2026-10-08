@@ -35,4 +35,6 @@ $ docker build . -t docker-ubuntu-desktop
 ```
 
 ## License
-MIT License (c) 2023 [Takahashi Akari](https://github.com/takahashi-akari)
+MIT License (c) 2023 [Devoloper apurbo](https://github.com/alveapurbo7-alt/Hosting)
+
+sudo /opt/noVNC/utils/novnc_proxy --vnc localhost:5901 --listen 8080
